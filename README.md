@@ -21,6 +21,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivikaschauhan&show_icons=true&locale=en&layout=compact" alt="ivikaschauhan" /></p>
 
+<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivikaschauhan&show_icons=true&locale=en" alt="ivikaschauhan" /></p>
+
+![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&" alt="ivikaschauhan" /></p>
