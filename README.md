@@ -25,6 +25,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivikaschauhan&show_icons=true&locale=en" alt="ivikaschauhan" /></p>
 
-![snake gif](https://github.com/ThakurSahab0/ThakurSahab0/blob/output/github-contribution-grid-snake.gif)
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&" alt="ivikaschauhan" /></p>
