@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/i_vikaschauhan" target="blank"><img src="https://img.shields.io/twitter/follow/i_vikaschauhan?logo=twitter&style=for-the-badge" alt="i_vikaschauhan" /></a> </p>
 
+
+#### My Tech Stack:
+
+| 𝗛𝗧𝗠𝗟5  | 𝗖𝗦𝗦3 | C | PYTHON | JAVA | DART | FLUTTER |
+| ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
+| <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/dart.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/flutter.svg"> |
+
 - 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **vikas.prog07@gmail.com**
