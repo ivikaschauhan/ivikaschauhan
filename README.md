@@ -28,7 +28,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ivikaschauhan&show_icons=true&locale=en&layout=compact&theme=radical" alt="ivikaschauhan" /></p>
 
-<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="280">
+<img align='right' src="https://c.tenor.com/y2JXkY1pXkwAAAAC/cat-computer.gif" width="280">
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivikaschauhan&show_icons=true&locale=en&theme=radical" alt="ivikaschauhan" /></p>
 
