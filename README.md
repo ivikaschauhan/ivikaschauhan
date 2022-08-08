@@ -34,4 +34,8 @@
 
 ![snake gif](https://github.com/ivikaschauhan/ivikaschauhan/blob/output/github-contribution-grid-snake.svg)
 
+
+[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+[meme]: https://random-memer.herokuapp.com
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&theme=radical" alt="ivikaschauhan" /></p>
