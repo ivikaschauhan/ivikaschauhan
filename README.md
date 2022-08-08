@@ -32,10 +32,14 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ivikaschauhan&show_icons=true&locale=en&theme=radical" alt="ivikaschauhan" /></p>
 
+![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+
+<img align='centre' src="https://random-memer.herokuapp.com" width="400">
+
 ![snake gif](https://github.com/ivikaschauhan/ivikaschauhan/blob/output/github-contribution-grid-snake.svg)
 
 
-[quote]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
-[meme]: https://random-memer.herokuapp.com
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ivikaschauhan&theme=radical" alt="ivikaschauhan" /></p>
