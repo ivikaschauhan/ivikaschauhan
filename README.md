@@ -12,7 +12,7 @@
 | ------------- | ------------- |------------- | ------------- |------------- | ------------- |------------- |
 | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg">  | <img height="35px" src="https://cdn.svgporn.com/logos/css-3.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/c.svg"> |  <img height="30px" src="https://cdn.svgporn.com/logos/python.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/dart.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/flutter.svg"> |
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full Stack Development**
 
 - 📫 How to reach me **vikas.prog07@gmail.com**
 
