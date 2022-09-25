@@ -35,7 +35,7 @@
 ![quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
-<img align='centre' src="https://random-memer.herokuapp.com" width="400">
+
 
 ![snake gif](https://github.com/ivikaschauhan/ivikaschauhan/blob/output/github-contribution-grid-snake.svg)
 
